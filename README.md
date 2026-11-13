@@ -25,6 +25,8 @@ Disponible para trabajo **remoto o híbrido** · Latinoamérica y España.
 | Automatización comercial con agentes de IA: carga y homologación de sell in y sell out | Gador Perú | Apps Script · Agentes de IA |
 | Frontends de sistemas a medida en equipo (Metales Finos, gestión documentaria) | Clientes de agencia | Next.js · React · TypeScript |
 
+**Diseño y desarrollo web:** webs corporativas y tiendas en línea en WordPress (Elementor Pro, WooCommerce, temas hijo a medida). Ver [portafolio web](https://martinjara.work/proyectos/#web).
+
 El código de estos proyectos vive en repositorios privados de clientes. Más detalle en el portafolio.
 
 #### Contacto
